@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farjanaIslamNipa
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning laravel, vue.js
+- 🌱 I’m currently learning laravel, vue.js, Nuxt.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nipa.farzana87@gmail.com
 
