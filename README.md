@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farjanaIslamNipa
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Redux, Nuxt.js
+- 🌱 I’m currently learning Node.js, Express.js, MongoDB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nipa.farzana87@gmail.com
 
