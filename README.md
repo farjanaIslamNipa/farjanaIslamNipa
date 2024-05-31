@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Developer | Turning Designs into Functional and Aesthetic Web Applications<br><br>🌱 I’m currently learning Node.js<br><br>💬 Ask me about React.js, Vue.js, Next.js, Nuxt.js<br><br>📫 How to reach me nipa.farzana87@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1DSLEtPervEIqSid4BDvBoK8Pf1ES2RD_/view?usp=sharing
+Assalamu Alaikum, I am <b>Farjana Islam</b> | Frontend Developer | Turning Designs into Functional and Aesthetic Web Applications<br><br>🌱 I’m currently learning Node.js<br><br>💬 Ask me about React.js, Vue.js, Next.js, Nuxt.js<br><br>📫 How to reach me nipa.farzana87@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1DSLEtPervEIqSid4BDvBoK8Pf1ES2RD_/view?usp=sharing
 
 
 ## 🌐 Socials:
